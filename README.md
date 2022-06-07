@@ -1,2 +1,2 @@
-# codewarskatas
+# codewarskatas, hackerrank
 Algorithmns and Datastructures
